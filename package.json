@@ -1,0 +1,28 @@
+{
+  "name": "tv-maze",
+  "version": "1.0.0",
+  "description": "A TVMaze wrapper client",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hecto932/tv-maze.git"
+  },
+  "keywords": [
+    "tvmaze",
+    "tv",
+    "shows"
+  ],
+  "author": "Hector Flores <hecto932@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hecto932/tv-maze/issues"
+  },
+  "homepage": "https://github.com/hecto932/tv-maze#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3"
+  }
+}
